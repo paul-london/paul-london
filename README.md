@@ -8,7 +8,7 @@ Welcome to my GitHub profile. I'm a bioinformatics and data science enthusiast w
 - 🔬 Molecular biology + computational workflows
 - 🧾 Laboratory management and regulatory compliance
 
-## 🔭 Current Projects
+## 🔭 Projects
 - [Bioinformatics NGS Variant Pipeline](https://github.com/paul-london/Bioinformatics)
 - [TripleTen Data Science Sprint Projects](https://github.com/paul-london/TripleTen-Data-Science-Projects)
 
