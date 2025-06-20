@@ -13,4 +13,5 @@ Welcome to my GitHub profile. I'm a bioinformatics and data science enthusiast w
 - [TripleTen Data Science Sprint Projects](https://github.com/paul-london/TripleTen-Data-Science-Projects)
 
 ## 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/palondon/) | [Email](mailto:palondon@hotmail.com)
+- [LinkedIn](https://www.linkedin.com/in/palondon/)
+- [Email](mailto:palondon@hotmail.com)
