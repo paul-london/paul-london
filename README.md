@@ -11,7 +11,7 @@ Welcome to my GitHub profile. I'm a bioinformatics and data science enthusiast a
 
 ## 🔭 Projects
 
-Below you will find two repositories - one is bioinformatics-related projects and the other is projects from my TripleTen Data Science Professional Training Program.
+Below you will find two repositories - one has bioinformatics-related projects and the other has projects from my TripleTen Data Science Professional Training Program.
 
 - [Bioinformatics](https://github.com/paul-london/Bioinformatics)
 - [TripleTen Data Science Projects](https://github.com/paul-london/TripleTen-Data-Science-Projects)
