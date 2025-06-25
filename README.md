@@ -3,7 +3,7 @@
 Welcome to my GitHub profile. I'm a bioinformatics and data science enthusiast and molecular technologist with experience in:
 
 - 🧬 Next-Generation Sequencing (NGS) lab workflow and variant analysis pipelines
-- 🐍 Python, Snakemake, SQL, and Biopython
+- 🐍 Python, SQL, and Snakemake
 - 📊 Data science & machine learning
 - 🔬 Molecular biology + computational workflows
 - 🧾 Laboratory management and regulatory compliance
