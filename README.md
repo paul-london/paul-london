@@ -10,9 +10,15 @@ Welcome to my GitHub profile. I'm a bioinformatics and data science enthusiast a
 - 🚀 Clinical laboratory startups
 
 ## 🔭 Projects
+
+Below you will find two repositories - one is bioinformatics-related projects and the other is projects from my TripleTen Data Science Professional Training Program.
+
 - [Bioinformatics](https://github.com/paul-london/Bioinformatics)
-- [TripleTen Data Science Sprint Projects](https://github.com/paul-london/TripleTen-Data-Science-Projects)
+- [TripleTen Data Science Projects](https://github.com/paul-london/TripleTen-Data-Science-Projects)
 
 ## 📫 Contact
+
+Feel free to reach out, I am always looking for opportunities and networking!
+
 - [LinkedIn](https://www.linkedin.com/in/palondon/)
 - [Email](mailto:palondon@hotmail.com)
