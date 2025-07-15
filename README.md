@@ -11,7 +11,7 @@ Welcome to my GitHub profile. I'm a bioinformatics and data science enthusiast a
 
 ## 🔭 Projects
 
-- [Bioinformatics](https://github.com/paul-london/Bioinformatics) - Personal bioinformatics-related projects I've encountered while studying the subject
+- [Bioinformatics](https://github.com/paul-london/Bioinformatics) - Bioinformatics-related projects I've encountered while studying the subject
 - [TripleTen Data Science Projects](https://github.com/paul-london/TripleTen-Data-Science-Projects) - Projects from my TripleTen Data Science Professional Training Program 
 
 ## 📫 Contact
