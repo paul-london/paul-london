@@ -15,13 +15,13 @@ Experienced in developing reproducible pipelines, optimizing laboratory processe
 
 ## 🔭 Projects
 
-- [NGS Analysis Pipeline](https://github.com/paul-london/NGS-Analysis) (*In Progress*)
+- [NGS Analysis Pipeline](https://github.com/paul-london/NGS-Analysis) (*In Progress*)  
   Reproducible variant calling pipeline integrating lab workflow automation, QC, and Python/Snakemake scripting.
-- [Bioinformatics](https://github.com/paul-london/Bioinformatics)
+- [Bioinformatics](https://github.com/paul-london/Bioinformatics)  
   Bioinformatics exercises and exploratory projects from academic study and personal exploration.
-- [TripleTen Data Science Projects](https://github.com/paul-london/TripleTen-Data-Science-Projects)
+- [TripleTen Data Science Projects](https://github.com/paul-london/TripleTen-Data-Science-Projects)  
   Machine learning and data analysis projects from the TripleTen Data Science Professional Training Program.
-- [TripleTen Code Jam Project](https://github.com/paul-london/Park-Hopper-Routes)
+- [TripleTen Code Jam Project](https://github.com/paul-london/Park-Hopper-Routes)  
   Route optimization algorithm for a summer vacation roadtrip.
 
 ## 📫 Contact
