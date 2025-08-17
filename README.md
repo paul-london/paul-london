@@ -1,5 +1,5 @@
 # Paul London
-##Bioinformatics Scientist | NGS Workflows | Python Scripting | Lab Automation
+## Bioinformatics Scientist | NGS Workflows | Python Scripting | Lab Automation
 
 Experienced in developing reproducible pipelines, optimizing laboratory processes, and providing technical support in clinical settings.
 
