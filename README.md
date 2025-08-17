@@ -30,3 +30,5 @@ Feel free to reach out, I am always looking for opportunities and networking!
 
 - [LinkedIn](https://www.linkedin.com/in/palondon/)
 - [Email](mailto:palondon@hotmail.com)
+
+![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=paul-london&show_icons=true&theme=radical)
