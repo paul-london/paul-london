@@ -4,14 +4,16 @@
 
 Experienced in developing reproducible pipelines, optimizing laboratory processes, and providing technical support in clinical settings.
 
-## 🔧 Skills
+## 🔧 Skills & Tools
 
-- 🧬 NGS workflows and variant analysis pipelines
-- 🐍 Python, SQL, and Snakemake scripting
-- 📊 Data science and machine learning
-- 🔬 Molecular biology and computational workflows
-- 🧾 Laboratory management and regulatory compliance
-- 🚀 Clinical laboratory operations and startup experience
+| Category | Skills & Tools |
+|----------|----------------|
+| 🧬 **NGS Workflows & Variant Analysis** | PCR, NGS, DNA/RNA extraction, molecular diagnostics, assay validation, QC procedures, GATK, BWA, SAMtools, Picard, BEDtools, variant analysis pipelines |
+| 🐍 **Python, SQL & Snakemake Scripting** | Python & R scripting, SQL queries, workflow automation scripts, reproducible pipelines, Snakemake |
+| 📊 **Data Science & Machine Learning** | Regression/classification models, predictive analytics, pandas, NumPy, scikit-learn, XGBoost, LightGBM, CatBoost, data visualization (matplotlib, seaborn, Plotly) |
+| 🔬 **Molecular Biology & Computational Workflows** | Integration of wet-lab and computational pipelines, lab automation, robotics, automated workflows, data-driven QC optimization |
+| 🧾 **Laboratory Management & Regulatory Compliance** | CAP, COLA, AAB/ABOR standards, SOP development, inspection readiness, staff mentoring, workflow optimization |
+| 🚀 **Clinical Laboratory Operations & Startups** | Process improvement, lab instrumentation troubleshooting, client/staff onboarding, startup lab setup, high-throughput sample management |
 
 ## 🔭 Projects
 
@@ -30,5 +32,3 @@ Feel free to reach out, I am always looking for opportunities and networking!
 
 - [LinkedIn](https://www.linkedin.com/in/palondon/)
 - [Email](mailto:palondon@hotmail.com)
-
-![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=paul-london&show_icons=true&theme=radical)
