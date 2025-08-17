@@ -1,4 +1,7 @@
 # Paul London
+
+---
+
 ## Bioinformatics Scientist | NGS Workflows | Python Scripting | Lab Automation
 
 Experienced in developing reproducible pipelines, optimizing laboratory processes, and providing technical support in clinical settings.
@@ -12,12 +15,16 @@ Experienced in developing reproducible pipelines, optimizing laboratory processe
 - 🧾 Laboratory management and regulatory compliance
 - 🚀 Clinical laboratory operations and startup experience
 
+---
+
 ## 🔭 Projects
 
 - [NGS Analysis Pipeline](https://github.com/paul-london/NGS-Analysis) (*In Progress*) - Analysis pipeline for variant calling NGS Data
 - [Bioinformatics](https://github.com/paul-london/Bioinformatics) - Bioinformatics-related projects I've encountered while studying the subject
 - [TripleTen Data Science Projects](https://github.com/paul-london/TripleTen-Data-Science-Projects) - Projects from my TripleTen Data Science Professional Training Program
 - [TripleTen Code Jam Project](https://github.com/paul-london/Park-Hopper-Routes) - July 2025 Code Jam project in which we were tasked with creating a route algorithm for a summer vacation roadtrip
+
+---
 
 ## 📫 Contact
 
