@@ -1,15 +1,15 @@
 # Paul London
 
-👋 Welcome to my GitHub Profile!
+Bioinformatics and Data Scientist with expertise in NGS workflows, Python scripting, and lab automation. Experienced in developing reproducible pipelines, optimizing laboratory processes, and providing technical support in clinical settings.
 
-Bioinformatics Scientist with expertise in NGS workflows, Python scripting, and lab automation. Experienced in developing reproducible pipelines, optimizing laboratory processes, and providing technical support in clinical settings.
+## Experience:
 
-- 🧬 Next-Generation Sequencing (NGS) lab workflow and variant analysis pipelines
-- 🐍 Python, SQL, and Snakemake
-- 📊 Data science & machine learning
-- 🔬 Molecular biology + computational workflows
+- 🧬 NGS workflows and variant analysis pipelines
+- 🐍 Python, SQL, and Snakemake scripting
+- 📊 Data science and machine learning
+- 🔬 Molecular biology and computational workflows
 - 🧾 Laboratory management and regulatory compliance
-- 🚀 Clinical laboratory startups
+- 🚀 Clinical laboratory operations and startup experience
 
 ## 🔭 Projects
 
