@@ -4,7 +4,7 @@
 
 Experienced in developing reproducible pipelines, optimizing laboratory processes, and providing technical support in clinical settings.
 
-## Experience:
+## 🔧 Skills
 
 - 🧬 NGS workflows and variant analysis pipelines
 - 🐍 Python, SQL, and Snakemake scripting
