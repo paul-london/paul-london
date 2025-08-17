@@ -1,6 +1,6 @@
 # Paul London
 
-**Bioinformatics & Data Scientist | Molecular Technologist | Field Application Specialist | NGS & Variant Analysis | Python & R Scripting | Lab Automation**
+**Bioinformatics & Data Scientist | Molecular Technologist | Field Application Specialist | NGS & Variant Analysis | Python Scripting | Lab Automation**
 
 Experienced in building reproducible pipelines, optimizing lab workflows, and providing technical support in clinical and research settings. Skilled at bridging wet-lab and computational expertise to improve efficiency, reproducibility, and regulatory compliance.
 
