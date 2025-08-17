@@ -1,19 +1,19 @@
 # Paul London
 
-**Bioinformatics Scientist | NGS Workflows | Python Scripting | Lab Automation**
+**Bioinformatics & Data Scientist | Molecular Technologist | Field Application Specialist | NGS & Variant Analysis | Python & R Scripting | Lab Automation**
 
-Experienced in developing reproducible pipelines, optimizing laboratory processes, and providing technical support in clinical settings.
+Experienced in building reproducible pipelines, optimizing lab workflows, and providing technical support in clinical and research settings. Skilled at bridging wet-lab and computational expertise to improve efficiency, reproducibility, and regulatory compliance.
 
-## 🔧 Skills & Tools
+## 🛠️ Skills & Tools
 
-| Category | Skills & Tools |
-|----------|----------------|
-| 🧬 **NGS Workflows & Variant Analysis** | PCR, NGS, DNA/RNA extraction, molecular diagnostics, assay validation, QC procedures, GATK, BWA, SAMtools, Picard, BEDtools, variant analysis pipelines |
-| 🐍 **Python, SQL & Snakemake Scripting** | Python & R scripting, SQL queries, workflow automation scripts, reproducible pipelines, Snakemake |
-| 📊 **Data Science & Machine Learning** | Regression/classification models, predictive analytics, pandas, NumPy, scikit-learn, XGBoost, LightGBM, CatBoost, data visualization (matplotlib, seaborn, Plotly) |
-| 🔬 **Molecular Biology & Computational Workflows** | Integration of wet-lab and computational pipelines, lab automation, robotics, automated workflows, data-driven QC optimization |
-| 🧾 **Laboratory Management & Regulatory Compliance** | CAP, COLA, AAB/ABOR standards, SOP development, inspection readiness, staff mentoring, workflow optimization |
-| 🚀 **Clinical Laboratory Operations & Startups** | Process improvement, lab instrumentation troubleshooting, client/staff onboarding, startup lab setup, high-throughput sample management |
+| Area | Skills & Tools |
+|------|----------------|
+| 🧬 NGS & Molecular Workflows | PCR, NGS, DNA/RNA extraction, molecular diagnostics, variant calling pipelines |
+| 🐍 Programming & Data Tools | Python, R, SQL, Snakemake, Excel automation, data visualization, basic statistics |
+| 🔬 Lab Automation & Support | Robotics, automated workflows, lab instrumentation troubleshooting, integrated LIS |
+| 📊 Data Science & ML | Regression, classification, predictive modeling, feature engineering, model evaluation |
+| 🧾 Regulatory & Quality | CAP, COLA, AAB/ABOR standards, SOPs, inspection readiness |
+| 🚀 Client & Team Support | Staff & client onboarding, technical presentations, mentoring, troubleshooting guidance |
 
 ## 🔭 Projects
 
