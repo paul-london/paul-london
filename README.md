@@ -34,3 +34,4 @@ Feel free to reach out, I am always looking for opportunities and networking!
 
 - [LinkedIn](https://www.linkedin.com/in/palondon/)
 - [Email](mailto:palondon@hotmail.com)
+- [Resume](./resume.pdf)
