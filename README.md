@@ -21,8 +21,10 @@ Experienced in building reproducible pipelines, optimizing lab workflows, and pr
   Bioinformatics exercises and exploratory projects from academic study and personal exploration, as well as NGS analysis pipelines.
   - [Coursework](https://github.com/paul-london/Bioinformatics/tree/main/Genomic%20Data%20Science%20Specialization)
   - [NGS Analysis Pipelines](https://github.com/paul-london/Bioinformatics/tree/main/NGS%20Analysis%20Pipelines)
+  
 - [TripleTen Data Science Projects](https://github.com/paul-london/TripleTen-Data-Science-Projects)  
   Machine learning and data analysis projects from the TripleTen Data Science Professional Training Program.
+  
 - [TripleTen Code Jam Project](https://github.com/paul-london/Park-Hopper-Routes)  
   Route optimization algorithm for a summer vacation roadtrip.
 
