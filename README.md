@@ -15,7 +15,7 @@ Experienced in building reproducible pipelines, optimizing lab workflows, and pr
 | 🧾 Regulatory & Quality | CAP, COLA, AAB/ABOR standards, SOPs, inspection readiness |
 | 🚀 Client & Team Support | Staff & client onboarding, technical presentations, mentoring, troubleshooting guidance |
 
-## 🔭 Respositories
+## 🔭 Respositories & Projects
 
 - [Bioinformatics](https://github.com/paul-london/Bioinformatics)  
   Bioinformatics exercises and exploratory projects from academic study and personal exploration, as well as NGS analysis pipelines.
