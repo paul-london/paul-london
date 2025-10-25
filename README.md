@@ -17,6 +17,11 @@ Experienced in building reproducible pipelines, optimizing lab workflows, and pr
 
 ## 🔭 Respositories & Projects
 
+- [Property Type Prediction Dashboard](https://github.com/paul-london/Property-Type-Prediction)
+  Machine learning project completed during an externship with Berkshire Hathaway HomeServices.
+  - Data-driven dashboard to classify real estate listings by property type (detached, attached, or condo) using MLS data.
+  *Note: The dataset contains synthetic data to replace proprietary information while preserving structure and patterns for demonstration purposes.*
+
 - [Bioinformatics](https://github.com/paul-london/Bioinformatics)  
   Bioinformatics exercises and exploratory projects from academic study and personal exploration, as well as NGS analysis pipelines.
   - [Coursework](https://github.com/paul-london/Bioinformatics/tree/main/Genomic%20Data%20Science%20Specialization)
