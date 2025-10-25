@@ -23,6 +23,10 @@ Experienced in building reproducible pipelines, optimizing lab workflows, and pr
   
   *Note: The dataset contains synthetic data to replace proprietary information while preserving structure and patterns for demonstration purposes.*
 
+- [Park Hopper Routes](https://github.com/paul-london/Park-Hopper-Routes)  
+  Route optimization algorithm for a summer vacation roadtrip created in collaboration with Software Engineers.
+  - Interactive website to plan a route for a summer roadtrip through national parks and provide helpful travel tips.
+
 - [Bioinformatics](https://github.com/paul-london/Bioinformatics)  
   Bioinformatics exercises and exploratory projects from academic study and personal exploration, as well as NGS analysis pipelines.
   - [Coursework](https://github.com/paul-london/Bioinformatics/tree/main/Genomic%20Data%20Science%20Specialization)
@@ -30,9 +34,6 @@ Experienced in building reproducible pipelines, optimizing lab workflows, and pr
   
 - [TripleTen Data Science Projects](https://github.com/paul-london/TripleTen-Data-Science-Projects)  
   Machine learning and data analysis projects from the TripleTen Data Science Professional Training Program.
-  
-- [TripleTen Code Jam Project](https://github.com/paul-london/Park-Hopper-Routes)  
-  Route optimization algorithm for a summer vacation roadtrip.
 
 ## 📫 Contact
 
