@@ -22,8 +22,9 @@ Experienced in building reproducible pipelines, optimizing lab workflows, and pr
 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) | ![Biopython](https://img.shields.io/badge/Biopython-0093D0?logo=python&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
 | ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) | ![BLAST](https://img.shields.io/badge/NCBI--BLAST-4A8CBF?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0iI0ZGRiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI2IiBjeT0iNiIgcj0iNSIgZmlsbD0iI0ZGRiIvPjwvc3ZnPg==) | ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) |
 | ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) | ![Entrez](https://img.shields.io/badge/Entrez-003399?logo=databricks&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white) |
-| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) | ![SciPy](https://img.shields.io/badge/SciPy-0C55A5?logo=scipy&logoColor=white) | | | |
-| ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black) | | | | |
+| | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) | | | |
+| | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black) | | | |
+
 
 
 ## 🔭 Respositories & Projects
