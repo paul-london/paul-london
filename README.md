@@ -4,6 +4,9 @@
 
 Bridging wet-lab and computational expertise to generate actionable insights, automate workflows, and deliver reproducible pipelines in biotech and data science projects.
 
+## 🎯 Career Goals
+I am focused on applying bioinformatics, data science, and AI/ML to translational research, clinical genomics, and biotech analytics. My goal is to build reproducible pipelines and data-driven tools that help researchers and organizations make actionable, scientifically-informed decisions.
+
 ## 🛠️ Skillset
 
 | Area                              | Skills                                                                                              |
@@ -47,9 +50,6 @@ Bridging wet-lab and computational expertise to generate actionable insights, au
   
 - [TripleTen Data Science Projects](https://github.com/paul-london/TripleTen-Data-Science-Projects)  
   Machine learning and data analysis projects from the TripleTen Data Science Professional Training Program.
-
-## 🎯 Career Goals
-I am focused on applying bioinformatics, data science, and AI/ML to translational research, clinical genomics, and biotech analytics. My goal is to build reproducible pipelines and data-driven tools that help researchers and organizations make actionable, scientifically-informed decisions.
 
 ## 📫 Contact
 
