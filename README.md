@@ -33,6 +33,13 @@ I am focused on applying bioinformatics, data science, and AI/ML to translationa
 
 ## 🔭 Respositories & Projects
 
+- [Biotech Trend Intelligence](https://github.com/jeelfaldu7/bio_project/)
+  An interactive intelligence platform showcasing automated trend extraction across the biotech ecosystem.
+  - Interactive dashboard allowing exploration of recent trends in biotech news.
+ 
+- [Machine Learning Classification of Structural Protein Sequences for Drug Discovery](https://github.com/paul-london/Machine-Learning-Based-Classification-of-Structural-Protein-Sequences-for-Drug-Discovery)
+  Comparison of different Machine Learning approaches (NLP, LSTM, LLM) to predict protein functional class from sequence alone.
+
 - [Property Type Prediction Dashboard](https://github.com/paul-london/Property-Type-Prediction)
   Machine learning project completed during an externship with Berkshire Hathaway HomeServices.
   - Data-driven dashboard to classify real estate listings by property type (detached, attached, or condo) using MLS data.
