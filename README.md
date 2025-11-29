@@ -5,7 +5,7 @@
 Bridging wet-lab and computational expertise to generate actionable insights, automate workflows, and deliver reproducible pipelines in biotech and data science projects.
 
 ## 🎯 Career Goals
-I am focused on applying bioinformatics, data science, and AI/ML to translational research, clinical genomics, and biotech analytics. My goal is to build reproducible pipelines and data-driven tools that help researchers and organizations make actionable, scientifically-informed decisions.
+I am focused on applying bioinformatics, data science, and AI/ML to translational research, clinical genomics, and biotech analytics. Open to opportunities in biotech, pharma, and data-driven research roles.
 
 ## 🛠️ Skillset
 
