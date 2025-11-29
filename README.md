@@ -8,12 +8,12 @@ Experienced generating actionable insights from data and building interactive da
 
 | Area | Skills |
 |------|------------------|
-| 📊 Data Science & ML | Regression, classification, predictive modeling, feature engineering, model evaluation, applied AI/ML in biotech |
+| 📊 Data Science & ML | Regression, classification, clustering, predictive modeling, feature engineering, model evaluation, applied AI/ML |
 | ☁️ Cloud & Deployment | Deployment of dashboards, containerization, cloud-based pipelines, reproducible environments |
 | 🐍 Programming & Data | Scripting, data manipulation, workflow automation, reproducible pipelines, basic statistics |
 | 🧬 NGS & Molecular Workflows | PCR, NGS, DNA/RNA extraction, molecular diagnostics, variant calling pipelines |
 | 🔬 Lab Automation & Support | Robotics, automated workflows, lab instrumentation troubleshooting, integrated LIS |
-| 🧾 Regulatory & Quality | CAP, COLA, AAB/ABOR standards, SOPs, inspection readiness |
+| 🧾 Regulatory & Quality | CAP/COLA/CLIA standards and inspection readiness, SOP management |
 | 🚀 Client & Team Support | Staff & client onboarding, technical presentations, mentoring, troubleshooting guidance |
 | 🧬 Bioinformatics | Genomics data analysis, protein modeling, RNA therapeutics pipelines, sequence analysis, BLAST/Entrez workflows |
 
