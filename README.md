@@ -4,16 +4,19 @@
 
 Experienced generating actionable insights from data and building interactive dashboards and reproducible pipelines, optimizing workflows, and providing technical support in clinical and research settings. Skilled at bridging wet-lab and computational expertise to improve efficiency, reproducibility, and regulatory compliance.
 
-## 🛠️ Skills & Tools
+## 🛠️ Skillset
 
-| Area | Skills & Tools |
-|------|----------------|
+| Area | Skills |
+|------|------------------|
+| 📊 Data Science & ML | Regression, classification, predictive modeling, feature engineering, model evaluation, applied AI/ML in biotech |
+| ☁️ Cloud & Deployment | Deployment of dashboards, containerization, cloud-based pipelines, reproducible environments |
+| 🐍 Programming & Data | Scripting, data manipulation, workflow automation, reproducible pipelines, basic statistics |
 | 🧬 NGS & Molecular Workflows | PCR, NGS, DNA/RNA extraction, molecular diagnostics, variant calling pipelines |
-| 🐍 Programming & Data Tools | Python, R, SQL, Snakemake, Excel automation, data visualization, basic statistics |
 | 🔬 Lab Automation & Support | Robotics, automated workflows, lab instrumentation troubleshooting, integrated LIS |
-| 📊 Data Science & ML | Regression, classification, predictive modeling, feature engineering, model evaluation |
 | 🧾 Regulatory & Quality | CAP, COLA, AAB/ABOR standards, SOPs, inspection readiness |
 | 🚀 Client & Team Support | Staff & client onboarding, technical presentations, mentoring, troubleshooting guidance |
+| 🧬 Bioinformatics | Genomics data analysis, protein modeling, RNA therapeutics pipelines, sequence analysis, BLAST/Entrez workflows |
+
 
 ## 💻 Tech Stack
 
