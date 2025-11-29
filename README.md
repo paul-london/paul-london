@@ -1,22 +1,19 @@
 # Paul London
 
-**Bioinformatics & Data Scientist | Molecular Technologist | Field Application Specialist | NGS & Variant Analysis | Python Scripting | Lab Automation**
+**Bioinformatics & Data Scientist | Molecular Technologist | AI & ML Enthusiast**
 
-Experienced generating actionable insights from data and building interactive dashboards and reproducible pipelines, optimizing workflows, and providing technical support in clinical and research settings. Skilled at bridging wet-lab and computational expertise to improve efficiency, reproducibility, and regulatory compliance.
+Bridging wet-lab and computational expertise to generate actionable insights, automate workflows, and deliver reproducible pipelines in biotech and data science projects.
 
 ## 🛠️ Skillset
 
-| Area | Skills |
-|------|------------------|
-| 📊 Data Science & ML | Regression, classification, clustering, predictive modeling, feature engineering, model evaluation, applied AI/ML |
-| ☁️ Cloud & Deployment | Deployment of dashboards, containerization, cloud-based pipelines, reproducible environments |
-| 🐍 Programming & Data | Scripting, data manipulation, workflow automation, reproducible pipelines, basic statistics |
-| 🧬 NGS & Molecular Workflows | PCR, NGS, DNA/RNA extraction, molecular diagnostics, variant calling pipelines |
-| 🔬 Lab Automation & Support | Robotics, automated workflows, lab instrumentation troubleshooting, integrated LIS |
-| 🧾 Regulatory & Quality | CAP/COLA/CLIA standards and inspection readiness, SOP management |
-| 🚀 Client & Team Support | Staff & client onboarding, technical presentations, mentoring, troubleshooting guidance |
-| 🧬 Bioinformatics | Genomics data analysis, protein modeling, RNA therapeutics pipelines, sequence analysis, BLAST/Entrez workflows |
-
+| Area                              | Skills                                                                                              |
+| --------------------------------- | --------------------------------------------------------------------------------------------------- |
+| 📊 Data Science & Engineering     | Python, SQL, pandas, scikit-learn, regression, classification, clustering, ML pipelines, applied AI |
+| 🧬 Bioinformatics & NGS           | Genomics analysis, RNA therapeutics, variant calling, BLAST/Entrez, protein modeling                |
+| ☁️ Cloud & Deployment             | Docker, Streamlit, GCP, Render, pipeline automation, reproducible environments                      |
+| 🔬 Lab Automation & Support       | Robotics, lab instrumentation troubleshooting, LIS integration                                      |
+| 🧾 Regulatory & Quality           | CAP/COLA/CLIA standards, SOP management                                                             |
+| 🚀 Collaboration & Client Support | Staff onboarding, mentoring, technical presentations, troubleshooting guidance                      |
 
 ## 💻 Tech Stack
 
@@ -50,6 +47,9 @@ Experienced generating actionable insights from data and building interactive da
   
 - [TripleTen Data Science Projects](https://github.com/paul-london/TripleTen-Data-Science-Projects)  
   Machine learning and data analysis projects from the TripleTen Data Science Professional Training Program.
+
+## 🎯 Career Goals
+I am focused on applying bioinformatics, data science, and AI/ML to translational research, clinical genomics, and biotech analytics. My goal is to build reproducible pipelines and data-driven tools that help researchers and organizations make actionable, scientifically-informed decisions.
 
 ## 📫 Contact
 
