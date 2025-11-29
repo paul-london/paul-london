@@ -1,6 +1,6 @@
 # Paul London
 
-**Bioinformatics & Data Scientist | Molecular Technologist | AI & ML Enthusiast**
+## **Bioinformatics & Data Scientist | Molecular Technologist | AI & ML Enthusiast**
 
 Bridging wet-lab and computational expertise to generate actionable insights, automate workflows, and deliver reproducible pipelines in biotech and data science projects.
 
