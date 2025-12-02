@@ -11,12 +11,15 @@ I am focused on applying bioinformatics, data science, and AI/ML to translationa
 
 | Area                              | Skills                                                                                              |
 | --------------------------------- | --------------------------------------------------------------------------------------------------- |
-| 📊 Data Science & Engineering     | Python, SQL, pandas, scikit-learn, regression, classification, clustering, ML pipelines, applied AI |
+| 📊 Data Science & ML              | Python, SQL, pandas, scikit-learn, regression, classification, clustering, ML pipelines, applied AI, hyperparameter tuning, Optuna, model monitoring |
+| ☁️ Cloud, Deployment & MLOps      | Docker, Streamlit, GCP, Render, pipeline automation, reproducible environments, model deployment, pipeline orchestration |
+| 📈 Data Visualization & Analysis  | Matplotlib, Seaborn, Plotly, Tableau, Power BI, literature review, trend analysis, statistical modeling, hypothesis testing |
 | 🧬 Bioinformatics & NGS           | Genomics analysis, RNA therapeutics, variant calling, BLAST/Entrez, protein modeling                |
-| ☁️ Cloud & Deployment             | Docker, Streamlit, GCP, Render, pipeline automation, reproducible environments                      |
 | 🔬 Lab Automation & Support       | Robotics, lab instrumentation troubleshooting, LIS integration                                      |
 | 🧾 Regulatory & Quality           | CAP/COLA/CLIA standards, SOP management                                                             |
-| 🚀 Collaboration & Client Support | Staff onboarding, mentoring, technical presentations, troubleshooting guidance                      |
+| 🚀 Collaboration & Communication | Training, technical presentations, troubleshooting guidance, communicating with non-technical stakeholders                       |
+
+
 
 ## 💻 Tech Stack
 
