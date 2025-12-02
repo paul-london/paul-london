@@ -2,10 +2,16 @@
 
 ## **Data Scientist | Python, SQL, Machine Learning | Bioinformatics | Molecular Diagnostics**
 
-Bridging wet-lab and computational expertise to generate actionable insights, automate workflows, and deliver reproducible pipelines in biotech and data science projects.
+I’m a Molecular Technologist turned Data Scientist with a strong foundation in molecular biology, bioinformatics, and applied machine learning.  
+With experience working in both lab and data environments, I build data‑driven solutions that blend **scientific insight** and **engineering discipline**.  
+
+I’m passionate about:
+- Building reproducible ML pipelines and workflows 
+- Translating biological data into actionable insights  
+- Bridging wet‑lab science with computational biology and data engineering 
 
 ## 🎯 Career Goals
-I am focused on applying bioinformatics, data science, and AI/ML to translational research, clinical genomics, and biotech analytics. Open to opportunities in biotech, pharma, and data-driven research roles.
+I am focused on applying data science, AI/ML, and bioinformatics to translational research, clinical genomics, and biotech analytics. Open to opportunities in biotech, pharma, healthcare, and other data-driven roles.
 
 ## 🛠️ Skillset
 
@@ -34,7 +40,7 @@ I am focused on applying bioinformatics, data science, and AI/ML to translationa
 
 </p>
 
-## 🔭 Respositories & Projects
+## 🔭 Projects
 
 - [Biotech Trend Intelligence](https://github.com/paul-london/Biotech-Trend-Intelligence)
   - An intelligence platform showcasing automated trend extraction from RSS feeds across the biotech ecosystem.
