@@ -34,30 +34,30 @@ I am focused on applying bioinformatics, data science, and AI/ML to translationa
 ## 🔭 Respositories & Projects
 
 - [Biotech Trend Intelligence](https://github.com/paul-london/Biotech-Trend-Intelligence)
-  An interactive intelligence platform showcasing automated trend extraction across the biotech ecosystem.
-  - Interactive dashboard allowing exploration of recent trends in biotech news.
+  - An intelligence platform showcasing automated trend extraction from RSS feeds across the biotech ecosystem.
+  - Interactive dashboard allowing exploration of recent trends.
   - Submitted as a *Concierge Agent* for [Google AI Agents Intensive Capstone Project](https://www.kaggle.com/competitions/agents-intensive-capstone-project/overview).
  
 - [Machine Learning Classification of Structural Protein Sequences for Drug Discovery](https://github.com/paul-london/Machine-Learning-Based-Classification-of-Structural-Protein-Sequences-for-Drug-Discovery)
-  Comparison of different Machine Learning approaches (NLP, LSTM, LLM) to predict protein functional class from sequence alone.
+  - Comparison of different Machine Learning approaches (NLP, LSTM, LLM) to predict protein functional class from sequence alone.
 
 - [Property Type Prediction Dashboard](https://github.com/paul-london/Property-Type-Prediction)
-  Machine learning project completed during an externship with Berkshire Hathaway HomeServices.
+  - Machine learning project completed during an externship with Berkshire Hathaway HomeServices.
   - Data-driven dashboard to classify real estate listings by property type (detached, attached, or condo) using MLS data.
   
   *Note: The dataset contains synthetic data to replace proprietary information while preserving structure and patterns for demonstration purposes.*
 
 - [Park Hopper Routes](https://github.com/paul-london/Park-Hopper-Routes)  
-  Route optimization algorithm for a summer vacation roadtrip created in collaboration with Software Engineers.
+  - Route optimization algorithm for a summer vacation roadtrip created in collaboration with Software Engineers.
   - Interactive website to plan a route for a summer roadtrip through national parks and provide helpful travel tips.
 
 - [Bioinformatics](https://github.com/paul-london/Bioinformatics)  
-  Bioinformatics exercises and exploratory projects from academic study and personal exploration, as well as NGS analysis pipelines.
+  - Bioinformatics exercises and exploratory projects from academic study and personal exploration, as well as NGS analysis pipelines.
   - [Coursework](https://github.com/paul-london/Bioinformatics/tree/main/Genomic%20Data%20Science%20Specialization)
   - [NGS Analysis Pipelines](https://github.com/paul-london/Bioinformatics/tree/main/NGS%20Analysis%20Pipelines)
   
 - [TripleTen Data Science Projects](https://github.com/paul-london/TripleTen-Data-Science-Projects)  
-  Machine learning and data analysis projects from the TripleTen Data Science Professional Training Program.
+  - Machine learning and data analysis projects from the TripleTen Data Science Professional Training Program.
 
 ## 📫 Contact
 
