@@ -42,6 +42,10 @@ I am focused on applying data science, AI/ML, and bioinformatics to translationa
 
 ## 🔭 Projects
 
+- [Agentic Machine Learning for Multi-Omics Breast Cancer Subtyping](https://github.com/paul-london/Agentic-Machine-Learning-for-Multi-Omics-Breast-Cancer-Subtyping)
+  - Data engineering and machine learning (classic and agentic AI) pipelines
+  - Classify breast cancer samples into intrinsic molecular subtypes using multi-omics data
+
 - [Biotech Trend Intelligence](https://github.com/paul-london/Biotech-Trend-Intelligence)
   - An intelligence platform showcasing automated trend extraction from RSS feeds across the biotech ecosystem.
   - Interactive dashboard allowing exploration of recent trends.
